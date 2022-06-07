@@ -1,9 +1,10 @@
 # leukefilms
-leukefilms.nl webapplicatie mvc php
+leukefilms webapplicatie mvc php
 
-URL web-applicatie: https://sanderbaak.nl/leukefilms/ 
+This is a Plain PHP application which uses a MVC pattern
 
-admin login: mark
-admin ww: Welkom123@
+
+
+
 
 
